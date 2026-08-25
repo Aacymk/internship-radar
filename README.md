@@ -5,16 +5,13 @@
 Internship applications open on no announced schedule. Miss the week a posting
 goes up at a company you cared about and, for large programs, that is the
 cycle. The usual workaround is checking twenty careers pages by hand, which
-nobody sustains past February.
+is time ineffective
 
 Aggregating job postings is the easy half of that problem. The hard half is
 that a tracker which re-reports the same posting every morning trains you to
 ignore it — and then you miss the one that mattered. So this tracks **change**,
 not inventory: a posting is reported exactly once, the first time it appears,
 and is remembered from then on.
-
-It runs itself on GitHub's servers for free. There is nothing to host, install,
-or pay for, and it needs no API keys of any kind.
 
 <!-- RADAR:START -->
 
@@ -450,9 +447,6 @@ _Target season: Summer 2027. Last checked 2026-08-25. Postings are not filtered 
 ---
 
 ## Set it up (no coding required)
-
-You do not need Python, an editor, or a terminal. Everything below happens on
-this website.
 
 ### 1. Make your own copy
 
