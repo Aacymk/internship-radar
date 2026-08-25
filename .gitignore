@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+digest.md
+digest-title.txt
+.ruff_cache/
+.mypy_cache/
+
+# Personal working notes, not part of the project.
+notes_to_self.md

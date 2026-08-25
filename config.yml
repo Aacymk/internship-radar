@@ -1,0 +1,173 @@
+# ============================================================================
+#  Internship Radar - settings
+# ============================================================================
+#  This is the only file you need to edit. You can edit it right here on
+#  GitHub: click the pencil icon above, make your changes, then click
+#  "Commit changes" at the bottom.
+#
+#  Two rules to avoid errors:
+#    1. Keep the two-space indentation exactly as it is.
+#    2. Every company goes on its own line starting with "- ".
+# ============================================================================
+
+# Which internship season to track. Change the year each cycle.
+season: "Summer 2027"
+
+
+# ----------------------------------------------------------------------------
+#  COMPANIES TO WATCH
+# ----------------------------------------------------------------------------
+#  You are only told about postings at companies listed here.
+#
+#  Most companies just need their name:
+#      - Netflix
+#
+#  Some can also be checked against their own careers site directly, which
+#  is faster and more reliable than waiting for a list to pick them up. Those
+#  entries have a "board" attached. You do not need to add these yourself -
+#  see README "Adding a company's job board" if you want to.
+# ----------------------------------------------------------------------------
+companies:
+  # --- checked directly against the company's own careers site ---
+  - name: Airbnb
+    board: greenhouse
+    board_id: airbnb
+  - name: Cloudflare
+    board: greenhouse
+    board_id: cloudflare
+  - name: Coinbase
+    board: greenhouse
+    board_id: coinbase
+  - name: Databricks
+    board: greenhouse
+    board_id: databricks
+  - name: Datadog
+    board: greenhouse
+    board_id: datadog
+  - name: Discord
+    board: greenhouse
+    board_id: discord
+  - name: Dropbox
+    board: greenhouse
+    board_id: dropbox
+  - name: Figma
+    board: greenhouse
+    board_id: figma
+  - name: Lyft
+    board: greenhouse
+    board_id: lyft
+  - name: MongoDB
+    board: greenhouse
+    board_id: mongodb
+  - name: Pinterest
+    board: greenhouse
+    board_id: pinterest
+  - name: Reddit
+    board: greenhouse
+    board_id: reddit
+  - name: Robinhood
+    board: greenhouse
+    board_id: robinhood
+  - name: Roblox
+    board: greenhouse
+    board_id: roblox
+  - name: Stripe
+    board: greenhouse
+    board_id: stripe
+  - name: Twitch
+    board: greenhouse
+    board_id: twitch
+  - name: xAI
+    board: greenhouse
+    board_id: xai
+  - name: Palantir
+    board: lever
+    board_id: palantir
+  - name: Spotify
+    board: lever
+    board_id: spotify
+  - name: Plaid
+    board: ashby
+    board_id: plaid
+  - name: Cohere
+    board: ashby
+    board_id: cohere
+  # Workday board_id is "tenant:number:site", read off the careers page URL:
+  #   https://salesforce.wd12.myworkdayjobs.com/External_Career_Site
+  #            ^tenant     ^number  ^site
+  - name: Salesforce
+    board: workday
+    board_id: "salesforce:12:External_Career_Site"
+  - name: NVIDIA
+    board: workday
+    board_id: "nvidia:5:NVIDIAExternalCareerSite"
+  - name: Adobe
+    board: workday
+    board_id: "adobe:5:external_experienced"
+  - name: Intel
+    board: workday
+    board_id: "intel:1:External"
+  - name: eBay
+    board: workday
+    board_id: "ebay:5:apply"
+  - name: Capital One
+    board: workday
+    board_id: "capitalone:12:Capital_One"
+  - name: Mastercard
+    board: workday
+    board_id: "mastercard:1:CorporateCareers"
+
+  # --- matched by name against the curated lists below ---
+  - Amazon
+  - AMD
+  - Apple
+  - Atlassian
+  - Bloomberg
+  - Cisco
+  - Google
+  - IBM
+  - JPMorgan Chase
+  - LinkedIn
+  - Meta
+  - Microsoft
+  - Netflix
+  - Oracle
+  - Qualcomm
+  - Snap
+  - Snowflake
+  - TikTok
+  - Uber
+  - Visa
+
+
+# ----------------------------------------------------------------------------
+#  WHERE TO LOOK
+# ----------------------------------------------------------------------------
+#  Community-maintained lists of internship postings. They are usually the
+#  first place a new posting appears.
+#
+#  To add another list, copy one of these blocks and change the name and url.
+#  The url must be the RAW github address (click "Raw" on the README page).
+#  "sections" is optional - use it when a list mixes categories and you only
+#  want some of them.
+# ----------------------------------------------------------------------------
+job_lists:
+  - name: vanshb03
+    url: https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/main/README.md
+
+  - name: speedyapply
+    url: https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md
+
+  - name: SimplifyJobs
+    url: https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md
+
+  - name: zapplyjobs
+    url: https://raw.githubusercontent.com/zapplyjobs/Internships-2027/main/README.md
+    sections:
+      - software engineering
+      - data science
+
+
+# Set to false to skip checking company careers sites directly and rely
+# only on the lists above.
+check_boards: true

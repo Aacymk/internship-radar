@@ -1,0 +1,28 @@
+# Lint and type-check settings. This project runs unattended on a daily
+# cron with nobody watching the logs, so these gates exist to catch the
+# class of mistake that would otherwise show up as a silently empty run.
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "B", "UP"]
+ignore = [
+    # `l` for a Listing is used consistently throughout and reads fine in
+    # the comprehensions it appears in.
+    "E741",
+    # Flags the `cell()` helper in joblists.parse_document for closing over
+    # the loop variable. It is called within the same iteration it is
+    # defined in, so the binding it captures is always the intended one.
+    "B023",
+]
+
+[tool.ruff.lint.per-file-ignores]
+# Table fixtures are real samples from the lists being parsed; rewrapping
+# them would stop them being faithful reproductions.
+"tests/test_joblists.py" = ["E501"]
+
+[tool.mypy]
+python_version = "3.12"
+ignore_missing_imports = true

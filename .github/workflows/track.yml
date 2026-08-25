@@ -1,0 +1,84 @@
+# Runs the tracker on a schedule, commits the results back to this repo, and
+# opens an issue when something new opens. GitHub emails you about issues in
+# your own repository by default, so that issue IS the alert - there is no
+# email service, server, or API key involved anywhere in this workflow.
+name: Check for new internship postings
+
+on:
+  schedule:
+    # 13:00 UTC = 8am ET / 5am PT, daily. Cron here is always UTC.
+    - cron: "0 13 * * *"
+  # Adds a "Run workflow" button in the Actions tab to check immediately.
+  workflow_dispatch:
+    inputs:
+      baseline:
+        description: "Record everything as already-seen, without alerting"
+        type: boolean
+        default: false
+
+# Needed to commit results and to open the notification issue.
+permissions:
+  contents: write
+  issues: write
+
+# If a run is still going, let it finish rather than racing it to commit.
+concurrency:
+  group: internship-radar
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Check for new postings
+        id: radar
+        run: |
+          if [ "${{ inputs.baseline }}" = "true" ]; then
+            python -m radar --baseline
+            echo "found_new=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          set +e
+          python -m radar --digest digest.md --title-file digest-title.txt
+          code=$?
+          set -e
+
+          # 0 = ran fine, nothing new.  10 = ran fine, found something new.
+          # Anything else is a genuine failure and should fail the job.
+          case "$code" in
+            0)  echo "found_new=false" >> "$GITHUB_OUTPUT" ;;
+            10) echo "found_new=true"  >> "$GITHUB_OUTPUT" ;;
+            *)  exit "$code" ;;
+          esac
+
+      - name: Save results back to the repo
+        run: |
+          git config user.name "internship-radar"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/state.json README.md
+          # Nothing changes on a quiet day; that is not an error.
+          git diff --staged --quiet && echo "no changes to commit" && exit 0
+          git commit -m "Update postings ($(date -u +%Y-%m-%d))"
+          git push
+
+      - name: Tell me about the new postings
+        if: steps.radar.outputs.found_new == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "$(cat digest-title.txt)" \
+            --body-file digest.md
