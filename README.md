@@ -605,6 +605,34 @@ companies:
     board_id: figma
 ```
 
+## Architecture
+
+One run is a straight pipeline: **fetch → normalize → dedup → diff against
+history → report → remember.**
+
+`sources/` fetches. Every source — a company's ATS or a community list — is
+just something that produces `Listing`s ([`sources/base.py`](radar/sources/base.py)).
+The runner doesn't know or care which kind it's talking to; ~35 of them run
+concurrently under one pooled HTTP client.
+
+`model.py` normalizes. Two functions decide identity: `canonical_url` strips
+tracking params so the same posting from four lists collapses to one, and
+`normalize_company` matches "JPMorganChase" to "JP Morgan Chase". Everything
+downstream trusts these keys.
+
+`state.py` remembers. `data/state.json` is the only memory between runs — a
+map of canonical URL to the date it was first seen. A run's job is to diff
+today's listings against it, not to re-derive history.
+
+`report.py` and `cli.py` are the only parts that know a human is involved:
+building the GitHub issue body and rewriting the README table. Nothing above
+them touches formatting.
+
+The dependency direction is one-way — `sources` knows nothing about `report`,
+`model` knows nothing about either. That's what let concurrency get bolted
+onto `sources/base.py` later ([Design notes](#design-notes)) without anything
+else in the pipeline changing.
+
 ## Design notes
 
 Four decisions carry most of the weight.
@@ -656,6 +684,32 @@ The season matcher is worth a look too: `season_pair` requires the season and
 year to be adjacent with no digits between them, which is what separates a
 *Summer 2027 internship* from a *Summer 2026 internship for 2027 graduates* —
 the single most expensive mistake this kind of tool makes.
+
+## Testing philosophy
+
+Tests are weighted toward where a wrong guess is expensive and silent, not
+toward coverage percentage.
+
+**Parsing gets the most scrutiny.** `test_joblists.py` and `test_sources.py`
+exist because a community list's README is a moving target — column order,
+markdown vs. HTML tables, missing links — and a parser that silently returns
+zero rows on a format change is worse than one that crashes, because nothing
+tells you the tracker went blind. Robustness cases (`TestRobustness`,
+`TestHtmlTables`) lock in "parse what you can, skip what you can't" rather
+than "never fail."
+
+**Identity and novelty are tested in isolation from I/O.** `TestCanonicalUrl`,
+`TestNormalizeCompany`, and `TestNovelty` don't touch the network — getting
+these wrong doesn't crash the run, it corrupts it quietly, either by
+re-alerting on old postings or merging two different jobs into one.
+
+**Concurrency is tested for the property that matters, not the mechanism.**
+`TestDeterminism` in `test_sources.py` doesn't check that fetches happen in
+parallel — it checks that the *output* doesn't change when they do, which is
+the actual guarantee the [Design notes](#design-notes) concurrency section
+depends on. `TestFailureIsolation` and `TestSourceDeadline` cover the other
+half: one bad source shouldn't take down or slow down the rest.
+
 
 ## Running it locally
 
