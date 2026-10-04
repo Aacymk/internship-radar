@@ -15,30 +15,19 @@ and is remembered from then on.
 
 <!-- RADAR:START -->
 
-### Tracking 642 open internship posting(s)
+### Tracking 626 open internship posting(s)
 
-_Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered by season or role — you see everything at the companies you follow._
+_Target season: Summer 2027. Last checked 2026-10-04. Postings are not filtered by season or role — you see everything at the companies you follow._
 
-**13 new since the last check:**
+**2 new since the last check:**
 
 | Company | Role | Location | Posted | |
 | --- | --- | --- | --- | --- |
-| Amazon | Software Development Engineer Intern - Embedded Systems - Summer 2027 - USA | Seattle, WA | - | [Apply](https://www.amazon.jobs/jobs/10567914/apply) |
-| AMD | Masters Photonics Design Engineering Co-op | San Jose, CA | - | [Apply](https://careers.amd.com/jobs/91633?icims=1&utm_source=Simplify&ref=Simplify) |
-| Databricks | Software Engineer Intern | London, UK | - | [Apply](https://boards.greenhouse.io/embed/job_app?token=8847738002&utm_source=Simplify&ref=Simplify) |
-| Intel | GPU & AI Accelerator Hardware Design Undergraduate Intern | Canada, Toronto | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) |
-| Lyft | Hardware Field Quality Engineer Intern (Summer 2027) | Longueuil, Canada | Oct 02 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) |
-| Microsoft | Data Science: AI Experiences PhD Internship Opportunities - Redmond | Redmond, Washington, United States | - | [Apply](https://zapply.jobs/l/d/microsoft-200053341?s=gh-internships-2027) |
-| Salesforce | Summer 2027 Intern - Product GTM Strategy | California - San Francisco | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-GTM-Strategy_JR362217-1) |
-| xAI | Spring 2027 Business Operations Internship/Co-op | Palo Alto, CA | Oct 02 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255113007) |
-| xAI | Spring 2027 Software Engineering Internship/Co-op | Palo Alto, CA | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5252108007) |
-| xAI | Spring 2027 Software Engineering Internship/Co-op | Palo Alto, CA | - | [Apply](https://zapply.jobs/l/d/greenhouse-xai-5252108007?s=gh-internships-2027) |
-| xAI | Summer 2027 Business Operations Internship/Co-op | Palo Alto, CA | Oct 02 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255116007) |
-| xAI | Summer 2027 Software Engineering Internship/Co-op | Palo Alto, CA | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255111007) |
-| xAI | Summer 2027 Software Engineering Internship/Co-op | Palo Alto, CA | - | [Apply](https://zapply.jobs/l/d/greenhouse-xai-5255111007?s=gh-internships-2027) |
+| Intel | Haifa Lab technician - Student | Israel, Haifa | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/Haifa-Lab-technician---Student_JR0287787) |
+| TikTok | Client Solutions Intern | NYC | - | [Apply](https://lifeattiktok.com/search/7684622182248548661?utm_source=Simplify&ref=Simplify) |
 
 <details>
-<summary>All 642 tracked postings</summary>
+<summary>All 626 tracked postings</summary>
 
 | Company | Role | Location | Posted | |
 | --- | --- | --- | --- | --- |
@@ -81,7 +70,6 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | AMD | Analog and Mixed Signal Engineer Intern/Co-op | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/91369?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Analog/Mixed-Signal Design Intern/Co-op | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/92346?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Applied Artificial Intelligence Engineering Intern - Hardware AI | Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/90997?icims=1&utm_source=Simplify&ref=Simplify) |
-| AMD | ASIC Package Engineer Intern Co-op | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/91469?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | ASIC Package Engineering Co-op/Intern | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/91463?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | ASIC Package Engineering Intern Co-op | 6 locations Secaucus, NJ Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | - | [Apply](https://careers.amd.com/jobs/91471?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | ASIC Package Engineering Intern Co-op | 6 locations Secaucus, NJ Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | - | [Apply](https://careers.amd.com/jobs/91466?icims=1&utm_source=Simplify&ref=Simplify) |
@@ -90,7 +78,6 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | AMD | Compiler Engineer Intern/Co-op | 5 locations Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | - | [Apply](https://careers.amd.com/jobs/91864?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Compiler Engineer Intern/Co-op | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/91866?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Compiler Engineer Intern/Co-op - Masters | 5 locations Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | - | [Apply](https://careers.amd.com/jobs/91867?icims=1&utm_source=Simplify&ref=Simplify) |
-| AMD | Data Analyst Intern/Co-op | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/90895?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Diagnostics Design Engineer Intern/Co-op | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/90435?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Firmware Engineer Co-op/Intern | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/90809?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Firmware Engineer Intern/Co-op | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/91320?icims=1&utm_source=Simplify&ref=Simplify) |
@@ -101,15 +88,11 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | AMD | Firmware Engineer Intern/Co-op - Long Term | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/90297?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Firmware Engineering Intern Co-op - Undergrad | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/90807?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Generative AI and Reinforcement Learning Research Intern | Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/90910?icims=1&utm_source=Simplify&ref=Simplify) |
-| AMD | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/90305?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/91359?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Hardware Design Engineer Intern/Co-op | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/91360?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Hardware Design Engineer Intern/Co-op - Long Term | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/90367?icims=1&utm_source=Simplify&ref=Simplify) |
-| AMD | Hardware Design Verification Engineer Co-op/Intern | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/90810?icims=1&utm_source=Simplify&ref=Simplify) |
-| AMD | Hardware Design Verification Engineer Intern/Co-op | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/91361?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Hardware Design Verification Engineer Intern/Co-op | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/90379?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Hardware Design Verification Engineer Intern/Co-op | Vancouver, BC, Canada | - | [Apply](https://careers.amd.com/jobs/91362?icims=1&utm_source=Simplify&ref=Simplify) |
-| AMD | Hardware Design Verification Engineering Intern/Co-op | 7 locations Secaucus, NJ Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | - | [Apply](https://careers.amd.com/jobs/90820?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Hardware Engineer Intern/Co-op | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/90894?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | HPC and Sovereign AI Center of Excellence Intern/Co-op | Austin, TX | - | [Apply](https://careers.amd.com/jobs/92691?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Machine Learning Intern/Co-op - Artificial Intelligence | 6 locations Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | - | [Apply](https://careers.amd.com/jobs/91181?icims=1&utm_source=Simplify&ref=Simplify) |
@@ -125,14 +108,11 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | AMD | Product Development Engineer Intern/Co-op | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/91227?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Product Development Engineering Intern/Co-op | 6 locations Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | - | [Apply](https://careers.amd.com/jobs/91230?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Product Development Engineering Intern/Co-op | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/91228?icims=1&utm_source=Simplify&ref=Simplify) |
-| AMD | Product Management Intern/Co-op - Multiple Teams | Calgary, AB, Canada | - | [Apply](https://careers.amd.com/jobs/90411?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/92350?icims=1&utm_source=Simplify&ref=Simplify) |
-| AMD | Software Engineer Intern/Co-op | Vancouver, BC, Canada | - | [Apply](https://careers.amd.com/jobs/91367?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Software Engineer Intern/Co-op | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/91368?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Software Engineer Intern/Co-op | 6 locations Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | - | [Apply](https://careers.amd.com/jobs/90947?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Software Engineer Intern/Co-op | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Software Engineer Intern/Co-op | 6 locations Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | - | [Apply](https://careers.amd.com/jobs/91180?icims=1&utm_source=Simplify&ref=Simplify) |
-| AMD | Software Engineer Intern/Co-op - Masters | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/91176?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Summer 2027 PhD AI Engineering Intern | Santa Clara, CA, United States | - | [Apply](https://zapply.jobs/l/d/amd-91005?s=gh-internships-2027) |
 | AMD | Summer 2027 PhD Applied AI Engineering Intern, Hardware AI | Santa Clara, CA, United States | - | [Apply](https://zapply.jobs/l/d/amd-90997?s=gh-internships-2027) |
 | Apple | GPU Intern | London, UK Cambridge, UK St Albans, UK | - | [Apply](https://jobs.apple.com/en-us/details/200679650?utm_source=Simplify&ref=Simplify) |
@@ -143,7 +123,6 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | Atlassian | Data Scientist Intern | Seattle, WA | - | [Apply](https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify) |
 | Atlassian | Machine Learning Intern | Seattle, WA SF | - | [Apply](https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify) |
 | Atlassian | Product Management Intern | SF | - | [Apply](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify) |
-| Atlassian | Research Intern | Seattle, WA | - | [Apply](https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify) |
 | Atlassian | Software Engineer Intern | Burnaby, BC, Canada Vancouver, BC, Canada Richmond, BC, Canada | - | [Apply](https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job?utm_source=Simplify&ref=Simplify) |
 | Atlassian | Software Engineer Intern | Seattle, WA SF | - | [Apply](https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify) |
 | Capital One | AI Engineer Intern | San Jose, CA McLean, VA NYC | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1?utm_source=Simplify&ref=Simplify) |
@@ -203,8 +182,8 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | Datadog | Product Management Intern | NYC | - | [Apply](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241&utm_source=Simplify&ref=Simplify) |
 | Datadog | Product Management Intern | Paris, France | Sep 08 | [Apply](https://careers.datadoghq.com/detail/8143729/?gh_jid=8143729) |
 | Datadog | Research Science Intern (PhD) | New York, New York, USA; Pittsburgh, Pennsylvania, USA | Sep 15 | [Apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
-| Datadog | Software Engineering Intern | Madrid, Spain | Sep 08 | [Apply](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) |
 | Datadog | Software Engineering Intern | Paris, France | Sep 08 | [Apply](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186) |
+| Datadog | Software Engineering Intern | Madrid, Spain | Sep 08 | [Apply](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) |
 | Datadog | Software Engineering Intern - Summer | Boston, MA +1 | - | [Apply](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) |
 | Figma | Data Engineer Intern (2027) | San Francisco, CA • New York, NY | - | [Apply](https://zapply.jobs/l/d/greenhouse-figma-6178851004?s=gh-internships-2027) |
 | Figma | Data Engineer Intern (2027) | San Francisco, CA • New York, NY | Sep 23 | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) |
@@ -253,6 +232,7 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | Intel | GPU & AI Accelerator Hardware Design Undergraduate Intern | Canada, Toronto | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) |
 | Intel | GPU Physical Design Engineer Intern | Costa Rica, San Jose | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer-Intern_JR0287532) |
 | Intel | Graphics Hardware Validation Undergraduate Engineering Intern | Canada, Toronto | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535) |
+| Intel | Haifa Lab technician - Student | Israel, Haifa | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/Haifa-Lab-technician---Student_JR0287787) |
 | Intel | Intel NPU Internship | Ireland, Leixlip | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Intel-NPU-Internship_JR0286890) |
 | Intel | Intern System Software Development Engineer | Malaysia, Kulim | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935) |
 | Intel | Intern System Software Development Engineer | Malaysia, Penang | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955) |
@@ -400,7 +380,6 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | NVIDIA | Humanoid Robot Learning Intern, Isaac Loco-Manipulation - 2027 | China, Shanghai | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Humanoid-Robot-Learning-Intern--Isaac-Loco-Manipulation---2027_JR2025542) |
 | NVIDIA | Infrastructure Tool Development Intern - 2027 | China, Shanghai | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Infrastructure-Tool-Development-Intern---2027_JR2025040) |
 | NVIDIA | Linux for Edge System Software Engineer (RDSS intern) | Taiwan, Taipei | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971) |
-| NVIDIA | Mixed Signal Design Intern | Santa Clara, CA | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502?utm_source=Simplify&ref=Simplify) |
 | NVIDIA | NVIDIA 2027 Internships: Autonomous Vehicles and Robotics | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) |
 | NVIDIA | NVIDIA 2027 Internships: Computer Architecture | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489) |
 | NVIDIA | NVIDIA 2027 Internships: Deep Learning | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) |
@@ -441,6 +420,7 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | NVIDIA | Physical Design Intern, VLSI - 2027 | 2 Locations | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Physical-Design-Intern--VLSI---2027_JR2025022-1) |
 | NVIDIA | Post Silicon Validation Intern - 2027 | China, Shanghai | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Post-Silicon-Validation-Intern---2027_JR2025052) |
 | NVIDIA | Power Analysis and Optimization Intern - 2027 | China, Shanghai | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Power-Analysis-and-Optimization-Intern---2027_JR2025535) |
+| NVIDIA | Research Intern | Santa Clara, CA | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171?utm_source=Simplify&ref=Simplify) |
 | NVIDIA | Research Intern - Robotics | Seattle, WA Santa Clara, CA | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647?utm_source=Simplify&ref=Simplify) |
 | NVIDIA | Server Firmware Developer (RDSS Intern) | Taiwan, Taipei | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2025558) |
 | NVIDIA | Silicon Co-design Intern - 2027 | China, Shanghai | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Silicon-Co-design-Intern---2027_JR2025055-1) |
@@ -517,17 +497,13 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | Pinterest | Software Engineer Intern 2027 (USA) | San Francisco, CA, US | - | [Apply](https://zapply.jobs/l/d/greenhouse-pinterest-7838577?s=gh-internships-2027) |
 | Pinterest | Software Engineer Intern 2027 - USA | Remote - San Francisco, CA | - | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) |
 | Qualcomm | Analog Design Intern - Hardware Engineering | Toronto, ON, Canada | - | [Apply](https://qualcomm.eightfold.ai/careers/job/446721140914?utm_source=Simplify&ref=Simplify) |
-| Qualcomm | Design Methodology Engineer Intern - MSIP - HW | Toronto, ON, Canada | - | [Apply](https://qualcomm.eightfold.ai/careers/job/446721140936?utm_source=Simplify&ref=Simplify) |
-| Qualcomm | Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware | Ottawa, ON, Canada | - | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156176?utm_source=Simplify&ref=Simplify) |
 | Qualcomm | Firmware Development Intern - PAL | Markham, ON, Canada | - | [Apply](https://qualcomm.eightfold.ai/careers/job/446721229661?utm_source=Simplify&ref=Simplify) |
 | Qualcomm | Firmware Engineer Intern - Embedded Software Engineering - Embedded Firmware and SDK Development | Toronto, ON, Canada | - | [Apply](https://qualcomm.eightfold.ai/careers/job/446721141411?utm_source=Simplify&ref=Simplify) |
 | Qualcomm | IP Applications Engineering Intern - Interim Engineering Intern - HW | Toronto, ON, Canada | - | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156615?utm_source=Simplify&ref=Simplify) |
 | Qualcomm | Low Power AI Software Development Intern - Interim Engineering Intern - Software | Markham, ON, Canada | - | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143440?utm_source=Simplify&ref=Simplify) |
 | Qualcomm | Machine Learning Compiler & Performance Engineering Intern - Systems | Markham, ON, Canada | - | [Apply](https://qualcomm.eightfold.ai/careers/job/446721064018?utm_source=Simplify&ref=Simplify) |
-| Qualcomm | MSIP Digital Design Verification Engineering Intern - HW | Toronto, ON, Canada | - | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156800?utm_source=Simplify&ref=Simplify) |
 | Qualcomm | Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW | Toronto, ON, Canada | - | [Apply](https://qualcomm.eightfold.ai/careers/job/446721142985?utm_source=Simplify&ref=Simplify) |
 | Qualcomm | Sensors Subsystem Engineering Intern - Low-Power AI - Audio | Markham, ON, Canada | - | [Apply](https://qualcomm.eightfold.ai/careers/job/446721109229?utm_source=Simplify&ref=Simplify) |
-| Qualcomm | Sensors Subsystem Engineering Intern - Multiple Teams | Markham, ON, Canada | - | [Apply](https://qualcomm.eightfold.ai/careers/job/446721109168?utm_source=Simplify&ref=Simplify) |
 | Qualcomm | Silicon Validation Intern | Toronto, ON, Canada | - | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143274?utm_source=Simplify&ref=Simplify) |
 | Qualcomm | Soft IP ASIC Engineer Intern | Ottawa, ON, Canada | - | [Apply](https://qualcomm.eightfold.ai/careers/job/446721302471?utm_source=Simplify&ref=Simplify) |
 | Robinhood | Brokerage Operations Intern (Summer 2027) | Chicago, IL | Sep 14 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198198?t=gh_src=&gh_jid=8198198) |
@@ -563,7 +539,6 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | Roblox | Software Engineer Intern | San Mateo, CA | Aug 05 | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713&gh_src=nnh32o631us&utm_source=github-vansh-ouckah) |
 | Salesforce | LATAM Internship Program - Sales Strategy Intern (Argentina) | Argentina - Buenos Aires | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Argentina---Buenos-Aires/LATAM-Internship-Program---Sales-Strategy-Intern--Argentina-_JR362431-1) |
 | Salesforce | LATAM Internship Program - Sales Strategy Intern (Mexico) | Mexico - Mexico City | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/LATAM-Internship-Program---Sales-Strategy-Intern--Mexico-_JR358150-1) |
-| Salesforce | LATAM Internship Program \| Alliances & Channels [Brazil] | Brazil - Sao Paulo | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Brazil---Sao-Paulo/LATAM-Internship-Program---Alliances---Channels--Brazil-_JR360861-1) |
 | Salesforce | LATAM Internship Program \| Scale Program LATAM Intern [Colombia] | Colombia - Bogota | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Colombia---Bogota/LATAM-Internship-Program---Scale-Program-LATAM-Intern--Colombia-_JR361231-1) |
 | Salesforce | Recruiting Coordination Apprentice - French Speaker | Ireland - Dublin | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Recruiting-Coordination-Apprentice_JR358086) |
 | Salesforce | Recruiting Coordinator Apprentice - Spanish speaker | Ireland - Dublin | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Recruiting-Coordinator-Apprentice_JR358093) |
@@ -591,14 +566,14 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | TikTok | Backend Software Engineer Intern, Search | San Jose, CA | Aug 04 | [Apply](https://lifeattiktok.com/search/7667933335084124469?utm_source=github-vansh-ouckah) |
 | TikTok | Backend Software Engineer Intern, Social Foundation | San Jose, CA | Aug 04 | [Apply](https://lifeattiktok.com/search/7667935565120112949?utm_source=github-vansh-ouckah) |
 | TikTok | Backend Software Engineer Intern, Social Friending | San Jose, CA | Aug 04 | [Apply](https://lifeattiktok.com/search/7667934635573692725?utm_source=github-vansh-ouckah) |
+| TikTok | Client Solutions Intern | NYC | - | [Apply](https://lifeattiktok.com/search/7684622182248548661?utm_source=Simplify&ref=Simplify) |
+| TikTok | Client Solutions Intern | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7677467052537776437?utm_source=Simplify&ref=Simplify) |
+| TikTok | Client Solutions Intern - Global Business Solutions | LA | - | [Apply](https://lifeattiktok.com/search/7677467375487486213?utm_source=Simplify&ref=Simplify) |
+| TikTok | Client Solutions Intern - Global Business Solutions | NYC | - | [Apply](https://lifeattiktok.com/search/7677467375486765317?utm_source=Simplify&ref=Simplify) |
 | TikTok | Data Analyst Intern - LIVE | London, UK | - | [Apply](https://lifeattiktok.com/search/7674944387893791029?utm_source=Simplify&ref=Simplify) |
-| TikTok | Data Engineer Intern - Ads Targeting | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7668533140146817333?utm_source=Simplify&ref=Simplify) |
 | TikTok | Data Engineer Intern - Data Platform Global Live | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7674032146438162693?utm_source=Simplify&ref=Simplify) |
 | TikTok | Data Engineer Intern - Monetization Data | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7671232204182276405?utm_source=Simplify&ref=Simplify) |
 | TikTok | Data Science Intern - Advertisement Team | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7673226686054107445?utm_source=Simplify&ref=Simplify) |
-| TikTok | Data Science Intern - TikTok Product | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7669683639101884725?utm_source=Simplify&ref=Simplify) |
-| TikTok | Data Scientist Intern - VOD Data | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7670287013157095733?utm_source=Simplify&ref=Simplify) |
-| TikTok | Ecosystem Analyst Intern - TikTok LIVE | LA | - | [Apply](https://lifeattiktok.com/search/7678985103851407669?utm_source=Simplify&ref=Simplify) |
 | TikTok | Frontend Engineer Intern - Ads Interface - 2027 Summer | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7671211313289398581) |
 | TikTok | Frontend Engineer Intern, Global CRM | San Jose, CA | Aug 04 | [Apply](https://lifeattiktok.com/search/7669711026846058757?utm_source=github-vansh-ouckah) |
 | TikTok | Frontend Engineer Intern, TikTok-Open Platform | San Jose, CA | Aug 04 | [Apply](https://lifeattiktok.com/search/7667935739300792629?utm_source=github-vansh-ouckah) |
@@ -608,7 +583,6 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | TikTok | LLM Post-training Engineer Intern - Research & Product | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7670285031018432773?utm_source=Simplify&ref=Simplify) |
 | TikTok | LLM Post-training Engineer Intern, Research & Product | San Jose, CA | Apr 24 | [Apply](https://lifeattiktok.com/search/7631599293708126517?utm_source=github-vansh-ouckah) |
 | TikTok | Machine Learning Engineer Intern | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7675847556668295429?utm_source=Simplify&ref=Simplify) |
-| TikTok | Machine Learning Engineer Intern - Data-Global E-Commerce-Search | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7668415591670417717?utm_source=Simplify&ref=Simplify) |
 | TikTok | Machine Learning Engineer Intern - E-Commerce Knowledge Graph | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7676652813409552645?utm_source=Simplify&ref=Simplify) |
 | TikTok | Machine Learning Engineer Intern - E-Commerce Knowledge Graph | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7676650607912601861?utm_source=Simplify&ref=Simplify) |
 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Foundation | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7672883129493948677?utm_source=Simplify&ref=Simplify) |
@@ -616,7 +590,7 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Mall | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7686283601340369205?utm_source=Simplify&ref=Simplify) |
 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Mall | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7672920375646488885?utm_source=Simplify&ref=Simplify) |
 | TikTok | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7675845333947812149?utm_source=Simplify&ref=Simplify) |
-| TikTok | Machine Learning Engineer Intern - Search | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7668396597746862341?utm_source=Simplify&ref=Simplify) |
+| TikTok | Machine Learning MLOps Intern - Global Site Reliability Engineering | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7670875283026053381?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Manager Intern - Ads Interface and Platform | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7672562486917286149?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Manager Intern - Ads Interface and Platform | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7672569081632229685?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Manager Intern - Commerce Ads | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7672557943224961333?utm_source=Simplify&ref=Simplify) |
@@ -629,7 +603,6 @@ _Target season: Summer 2027. Last checked 2026-10-03. Postings are not filtered 
 | TikTok | Product Manager Intern - Signal and Identity Product | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7672554809555192117?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Marketing Management Intern - Systems Strategy & Operations | NYC | - | [Apply](https://lifeattiktok.com/search/7683679497136179509?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Operations Intern | LA | - | [Apply](https://lifeattiktok.com/search/7673361736079329541?utm_source=Simplify&ref=Simplify) |
-| TikTok | Product Operations Intern - Apps and API | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7669927344569764101?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Operations Intern - TikTok Shop Apps and API | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7669705525866383621?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Operations Intern - TikTok Shop Apps and API - MBA | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7668820702623467781?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Solutions and Operations Intern - Commerce Ads | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7673340525029673221?utm_source=Simplify&ref=Simplify) |
