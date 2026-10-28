@@ -17,38 +17,37 @@ and is remembered from then on.
 
 ### Tracking 848 open internship posting(s)
 
-_Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered by season or role — you see everything at the companies you follow._
+_Target season: Summer 2027. Last checked 2026-10-28. Postings are not filtered by season or role — you see everything at the companies you follow._
 
-**26 new since the last check:**
+**25 new since the last check:**
 
 | Company | Role | Location | Posted | |
 | --- | --- | --- | --- | --- |
-| Apple | Software Engineer Intern, Core OS | United States | Oct 26 | [Apply](https://go.vansh.nyc/W1?s=y) |
-| JP Morgan Chase | Quant AI Associate Intern | Palo Alto, CA | - | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936?utm_source=Simplify&ref=Simplify) |
-| Meta | Research Intern - Embedded AI on Wearables - PhD | Redmond, WA | - | [Apply](https://www.metacareers.com/jobs/4070678619908522) |
-| TikTok | Global Product Solutions and Operations Intern - Global Monetization Product and Technology | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7701069870360627509?utm_source=Simplify&ref=Simplify) |
-| Visa | 2027 Sophomore Internship Program - Software Engineer Intern, Ashburn | Ashburn, VA | - | [Apply](https://zapply.jobs/l/d/workday-visa-visa-REF089878W?s=gh-internships-2027) |
-| Visa | 2027 Sophomore Internship Program - Software Engineer Intern, Austin, TX - 2027 | Austin, TX | - | [Apply](https://zapply.jobs/l/d/workday-visa-visa-REF089882W?s=gh-internships-2027) |
-| Visa | 2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch | Denver, CO | - | [Apply](https://zapply.jobs/l/d/workday-visa-visa-REF089880W?s=gh-internships-2027) |
-| Visa | Consulting & Analytics Intern - Summer 2027 | Atlanta, GA | - | [Apply](https://zapply.jobs/l/d/workday-visa-visa-REF089900W?s=gh-internships-2027) |
-| Visa | Data Science Intern - Data and AI Team | Foster City, CA | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1?utm_source=Simplify&ref=Simplify) |
-| Visa | Data Science Intern - Data and AI Team | Foster City, CA | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W?utm_source=Simplify&ref=Simplify) |
-| Visa | Data Science Intern, Data and AI Team | Foster City, CA | Oct 27 | [Apply](https://go.vansh.nyc/UG?s=y) |
-| Visa | Data Science Intern, Data and AI Team – Summer 2027 | Foster City, CA | - | [Apply](https://zapply.jobs/l/d/workday-visa-visa-REF089883W?s=gh-internships-2027) |
-| Visa | Product Management Intern - Data and AI Team | Foster City, CA | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1?utm_source=Simplify&ref=Simplify) |
-| Visa | Product Management Intern - Data and AI Team | Foster City, CA | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W?utm_source=Simplify&ref=Simplify) |
-| Visa | Software Engineer Intern | Denver, CO | Oct 27 | [Apply](https://go.vansh.nyc/VB?s=y) |
-| Visa | Software Engineer Intern | Austin, TX | Oct 27 | [Apply](https://go.vansh.nyc/VC?s=y) |
-| Visa | Software Engineer Intern | Bellevue, WA | Oct 27 | [Apply](https://go.vansh.nyc/Vx?s=y) |
-| Visa | Software Engineer Intern | Foster City, CA | Oct 27 | [Apply](https://go.vansh.nyc/Vy?s=y) |
-| Visa | Software Engineer Intern | Ashburn, VA | Oct 27 | [Apply](https://go.vansh.nyc/Vz?s=y) |
-| Visa | Software Engineer Intern | Denver, CO | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1?utm_source=Simplify&ref=Simplify) |
-| Visa | Software Engineer Intern | Austin, TX | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1?utm_source=Simplify&ref=Simplify) |
-| Visa | Software Engineer Intern | Austin, TX | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1?utm_source=Simplify&ref=Simplify) |
-| Visa | Software Engineer Intern | Austin, TX | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W?utm_source=Simplify&ref=Simplify) |
-| Visa | Software Engineer Intern | Denver, CO | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W?utm_source=Simplify&ref=Simplify) |
-| Visa | Software Engineer Intern | Austin, TX | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W?utm_source=Simplify&ref=Simplify) |
-| Visa | Sophomore Program Software Engineer Intern | Ashburn, VA | Oct 26 | [Apply](https://go.vansh.nyc/VE?s=y) |
+| Amazon | Database Engineer Intern | Seattle, WA East Palo Alto, CA | Oct 27 | [Apply](https://go.vansh.nyc/WF?s=y) |
+| Amazon | Database Engineer Intern | Seattle, WA East Palo Alto, CA | - | [Apply](https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027?utm_source=Simplify&ref=Simplify) |
+| Amazon | PhD Economics Intern - Finance, Macroeconomics, And Forecasting | 4 locations Seattle, WA Arlington County, Arlington, VA NYC Bellevue, WA | - | [Apply](https://amazon.jobs/en/jobs/10590600/phd-economics-intern-finance-macroeconomics-and-forecasting-summer-2027?utm_source=Simplify&ref=Simplify) |
+| Intel | AI Software Engineer Intern | 3 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288692) |
+| Intel | Foundry Construction, Supply Chain and Sourcing Intern – Graduate | 5 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Foundry-Construction--Supply-Chain-and-Sourcing-Intern---Graduate_JR0287924) |
+| Intel | Foundry Construction, Supply Chain and Sourcing Intern – Undergraduate | 5 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Foundry-Construction--Supply-Chain-and-Sourcing-Intern---Undergraduate_JR0287912) |
+| Intel | Process Integration Development Engineer PhD Intern 2027 | US, Oregon, Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-2027_JR0288661) |
+| JP Morgan Chase | Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl | NYC | - | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983?utm_source=Simplify&ref=Simplify) |
+| Mastercard | Summer internship 2027 - Sales Analyst Intern– Riyadh, Saudi Arabia | Riyadh, Saudi Arabia | - | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Product-Management-Intern--Summer-2027---Saudi-Arabia_R-287595-1) |
+| NVIDIA | Perf Engineering Intern - 2027 | China, Shanghai | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Perf-Engineering-Intern---2027_JR2028384) |
+| NVIDIA | Performance Engineering Intern - 2027 | China, Shanghai | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern---2027_JR2027711) |
+| Salesforce | Forward Deployed Engineer Intern - Global Public Sector | Arkansas Ohio | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026?utm_source=Simplify&ref=Simplify) |
+| Salesforce | Forward Deployed Engineer Intern - Global Public Sector | Arkansas Ohio | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1?utm_source=Simplify&ref=Simplify) |
+| Salesforce | Forward Deployed Engineer Intern, Global Public Sector | United States | Oct 26 | [Apply](https://go.vansh.nyc/WD?s=y) |
+| Salesforce | Summer 2027 Intern - Forward Deployed Engineer – Global Public Sector | 2 Locations | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1) |
+| Uber | Software Engineering Intern | Toronto, Canada | Oct 26 | [Apply](https://go.vansh.nyc/Wx?s=y) |
+| Visa | 2027 Sophomore Internship Program - Software Engineer Intern - Ashburn | Ashburn, VA | - | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1) |
+| Visa | 2027 Sophomore Internship Program - Software Engineer Intern - Highlands Ranch | Denver, CO | - | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1) |
+| Visa | Network and Security Engineering Intern | Ashburn, VA | Oct 26 | [Apply](https://go.vansh.nyc/Xg?s=y) |
+| Visa | Network and Security Engineering Intern | Denver, CO | Oct 26 | [Apply](https://go.vansh.nyc/Xh?s=y) |
+| Visa | Software Engineer - Intern - 2027 Ashburn - VA | Ashburn, VA | - | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1) |
+| Visa | Software Engineer - Intern - 2027 Austin - TX | Austin, TX | - | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W) |
+| Visa | Software Engineer - Intern - Foster City 2027 | Foster City, CA | - | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1) |
+| Visa | Software Engineer Intern | Foster City, CA | Oct 26 | [Apply](https://go.vansh.nyc/Xe?s=y) |
+| Visa | Software Engineer Intern | Austin, TX | Oct 26 | [Apply](https://go.vansh.nyc/Xf?s=y) |
 
 <details>
 <summary>All 848 tracked postings</summary>
@@ -104,6 +103,8 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | Amazon | Cloud Hardware Development Engineer Intern | Austin, TX Cupertino, CA | Oct 22 | [Apply](https://go.vansh.nyc/gL?s=y) |
 | Amazon | Cloud Hardware Development Engineer Intern | Austin, TX Cupertino, CA | - | [Apply](https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027?utm_source=Simplify&ref=Simplify) |
 | Amazon | Data Engineer Intern | Seattle, WA | - | [Apply](https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us?utm_source=Simplify&ref=Simplify) |
+| Amazon | Database Engineer Intern | Seattle, WA East Palo Alto, CA | Oct 27 | [Apply](https://go.vansh.nyc/WF?s=y) |
+| Amazon | Database Engineer Intern | Seattle, WA East Palo Alto, CA | - | [Apply](https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027?utm_source=Simplify&ref=Simplify) |
 | Amazon | Economics Intern - Structural IO | 4 locations Seattle, WA Arlington County, Arlington, VA NYC Bellevue, WA | - | [Apply](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027?utm_source=Simplify&ref=Simplify) |
 | Amazon | Embedded Firmware Co-op - Amazon Robotics - Spring 2027 | North Reading, MA | - | [Apply](https://www.amazon.jobs/jobs/10573570/apply) |
 | Amazon | Frontier AI & Robotics Intern | San Francisco, CA | Oct 22 | [Apply](https://go.vansh.nyc/eL?s=y) |
@@ -112,6 +113,7 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | Amazon | Hardware Development Engineer Intern Co-op - Robotics | North Reading, MA Westborough, MA | - | [Apply](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027?utm_source=Simplify&ref=Simplify) |
 | Amazon | Machine Learning Systems Software Development Engineer Intern - Annapurna Labs | Toronto, ON, Canada | - | [Apply](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027?utm_source=Simplify&ref=Simplify) |
 | Amazon | Machine Learning Systems Software Development Engineer Intern, Annapurna Labs | Toronto, Canada | Sep 11 | [Apply](https://go.vansh.nyc/MP?s=y) |
+| Amazon | PhD Economics Intern - Finance, Macroeconomics, And Forecasting | 4 locations Seattle, WA Arlington County, Arlington, VA NYC Bellevue, WA | - | [Apply](https://amazon.jobs/en/jobs/10590600/phd-economics-intern-finance-macroeconomics-and-forecasting-summer-2027?utm_source=Simplify&ref=Simplify) |
 | Amazon | PhD Economics Intern - Reduced Form Causal Inference | 4 locations Seattle, WA Arlington County, Arlington, VA NYC Bellevue, WA | - | [Apply](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027?utm_source=Simplify&ref=Simplify) |
 | Amazon | Product Manager Intern - ALA | Seattle, WA | - | [Apply](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship?utm_source=Simplify&ref=Simplify) |
 | Amazon | Quantum Applied Science Intern - Quantum Technologies team | 4 locations Boston, MA SF Pasadena, CA Santa Clara, CA | - | [Apply](https://amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team?utm_source=Simplify&ref=Simplify) |
@@ -141,13 +143,9 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | Amazon | Software Engineer Intern, AWS Database | United States | Oct 22 | [Apply](https://go.vansh.nyc/gJ?s=y) |
 | Amazon | Software Engineer Intern, Embedded Systems | United States | Oct 22 | [Apply](https://go.vansh.nyc/gE?s=y) |
 | Amazon | Software Engineer Intern, Embedded Systems | Redmond, WA Northridge, CA | Oct 06 | [Apply](https://go.vansh.nyc/FS?s=y) |
-| Amazon | Systems Development Engineer Intern | Vancouver, Canada | Oct 22 | [Apply](https://go.vansh.nyc/gI?s=y) |
-| Amazon | Systems Development Engineer Intern | Bellevue, WA | - | [Apply](https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027?utm_source=Simplify&ref=Simplify) |
-| Amazon | Systems Development Engineer Intern | Vancouver, BC, Canada | - | [Apply](https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027?utm_source=Simplify&ref=Simplify) |
 | Amazon | Technical Product Manager Intern | Seattle, WA Arlington County, Arlington, VA | - | [Apply](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027?utm_source=Simplify&ref=Simplify) |
 | AMD | AGS Libraries Co-op | Calgary, Canada | Sep 01 | [Apply](https://go.vansh.nyc/Q4?s=y) |
 | AMD | AGS Libraries Intern/Co-op | Calgary, AB, Canada | - | [Apply](https://careers.amd.com/jobs/90427?icims=1&utm_source=Simplify&ref=Simplify) |
-| AMD | AI Model Optimization & Software Engineer Intern/Co-op | Austin, TX | - | [Apply](https://careers.amd.com/jobs/92526?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | AI Research Infrastructure – Reinforcement Learning Post-Training Intern | Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/90950?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Analog and Mixed Signal Engineer Intern/Co-op | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/91369?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Analog/Mixed-Signal Design Intern/Co-op | San Jose, CA Santa Clara, CA | - | [Apply](https://careers.amd.com/jobs/92346?icims=1&utm_source=Simplify&ref=Simplify) |
@@ -174,7 +172,6 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | AMD | Hardware Design Engineer Intern/Co-op | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/91360?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Hardware Design Engineer Intern/Co-op | Vancouver, BC, Canada | - | [Apply](https://careers.amd.com/jobs/90372?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Hardware Design Engineer Intern/Co-op - Long Term | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/90367?icims=1&utm_source=Simplify&ref=Simplify) |
-| AMD | HPC and Sovereign AI Center of Excellence Intern/Co-op | Austin, TX | - | [Apply](https://careers.amd.com/jobs/92691?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Machine Learning/Artificial Intelligence Co-op | Markham, Canada | Sep 01 | [Apply](https://go.vansh.nyc/LG?s=y) |
 | AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/91363?icims=1&utm_source=Simplify&ref=Simplify) |
 | AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/90383?icims=1&utm_source=Simplify&ref=Simplify) |
@@ -188,21 +185,16 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | AMD | Software Test Engineering Co-op | Austin, TX | Aug 24 | [Apply](https://go.vansh.nyc/OL?s=y) |
 | AMD | Software Test Engineering Co-op | San Jose, CA | Aug 24 | [Apply](https://go.vansh.nyc/OM?s=y) |
 | AMD | Technical Marketing Performance Analysis Intern/Co-op | Markham, ON, Canada | - | [Apply](https://careers.amd.com/jobs/91953?icims=1&utm_source=Simplify&ref=Simplify) |
-| Apple | Aeon Modeling Software Intern | United States | Oct 19 | [Apply](https://go.vansh.nyc/D1?s=y) |
-| Apple | Cellular Baseband Design Verification Intern | United States | Oct 22 | [Apply](https://go.vansh.nyc/Dd?s=y) |
 | Apple | GPU Intern - Multiple Teams | London, UK Cambridge, UK St Albans, UK | - | [Apply](https://jobs.apple.com/en-us/details/200682357?utm_source=Simplify&ref=Simplify) |
-| Apple | Information Security Intern | United States | Oct 20 | [Apply](https://go.vansh.nyc/D9?s=y) |
-| Apple | Software Engineer Intern, Core OS | United States | Oct 26 | [Apply](https://go.vansh.nyc/W1?s=y) |
 | Apple | Software Engineer Intern, Undergrad | United States | May 22 | [Apply](https://go.vansh.nyc/33?s=y) |
-| Apple | Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation | United States | Oct 20 | [Apply](https://go.vansh.nyc/D3?s=y) |
 | Apple | Software Engineering Intern, Masters | United States | May 22 | [Apply](https://go.vansh.nyc/32?s=y) |
-| Apple | Software Engineering Intern, On-Demand Agent Provisioning in Cellular Test | United States | Oct 22 | [Apply](https://go.vansh.nyc/Dc?s=y) |
 | Atlassian | Security Engineer Intern | Seattle, WA | Oct 18 | [Apply](https://go.vansh.nyc/QW?s=y) |
 | Capital One | AI Engineer Intern | San Jose, CA McLean, VA NYC | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1?utm_source=Simplify&ref=Simplify) |
 | Capital One | AI Engineering Intern | San Jose, CA McLean, VA NYC | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1?utm_source=Simplify&ref=Simplify) |
 | Capital One | Applied Research Intern | San Jose, CA McLean, VA NYC | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2027_R244323-1?utm_source=Simplify&ref=Simplify) |
 | Capital One | MBA Product Intern | 4 locations McLean, VA Richmond, VA Chicago, IL NYC | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1?utm_source=Simplify&ref=Simplify) |
 | Cisco | Data Analyst I Intern | San Jose, CA Austin, TX Research Triangle Park, NC | Sep 17 | [Apply](https://go.vansh.nyc/JT?s=y) |
+| Cisco | Firmware Engineer II - Co-op - United States | Maynard, MA | - | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913) |
 | Cisco | Hardware Engineer I Intern | San Jose, CA Austin, TX Research Triangle Park, NC | Sep 16 | [Apply](https://go.vansh.nyc/JR?s=y) |
 | Cisco | Machine Learning Engineer I (Intern) – United States | San Jose California US | - | [Apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026803?s=gh-internships-2027) |
 | Cisco | Machine Learning Engineer II (Intern) – United States | San Jose California US | - | [Apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026802?s=gh-internships-2027) |
@@ -210,8 +202,6 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | Cisco | Software Engineer Data & AI II (Intern) – United States | San Jose California US | - | [Apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026798?s=gh-internships-2027) |
 | Cisco | Software Engineer Data & AI PhD - Intern - United States | San Jose, CA +2 | - | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611) |
 | Cisco | Software Engineer Embedded Systems I (Co-op) - United States | San Jose California US | - | [Apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2029701?s=gh-internships-2027) |
-| Cisco | Software Engineer Embedded Systems I - Co-op - United States | San Jose, CA +2 | - | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701) |
-| Cisco | Software Engineer Full Stack / Backend I (Co-op) - United States | San Jose California US | - | [Apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026049?s=gh-internships-2027) |
 | Cisco | Software Engineer Full Stack / Backend I - Co-op - United States | San Jose, CA +1 | - | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049) |
 | Cisco | Software Engineer I - Co-op - United States | Maynard, MA | - | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920) |
 | Cisco | Software Engineer II - Co-op - United States | Maynard, MA | - | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923) |
@@ -270,8 +260,8 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | Datadog | IT Support Technician Intern | Paris, France | Sep 08 | [Apply](https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799) |
 | Datadog | Research Science Intern (PhD) | New York, New York, USA; Pittsburgh, Pennsylvania, USA | Sep 15 | [Apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
 | Datadog | Software Engineer Intern | Boston, MA New York, NY | Sep 08 | [Apply](https://go.vansh.nyc/Mm?s=y) |
-| Datadog | Software Engineering Intern | Paris, France | Sep 08 | [Apply](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186) |
 | Datadog | Software Engineering Intern | Madrid, Spain | Sep 08 | [Apply](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) |
+| Datadog | Software Engineering Intern | Paris, France | Sep 08 | [Apply](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186) |
 | Datadog | Software Engineering Intern - Summer | Boston, MA +1 | - | [Apply](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) |
 | Figma | AI Applied Scientist Intern | SF NYC | - | [Apply](https://boards.greenhouse.io/figma/jobs/6207801004?utm_source=Simplify&ref=Simplify) |
 | Figma | Data Engineer Intern (2027) | San Francisco, CA • New York, NY | Sep 23 | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) |
@@ -304,16 +294,16 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | Intel | AI Data Science / Software Engineering PhD Intern New 2027 | Santa Clara, CA | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) |
 | Intel | AI Data Science / Software Engineering PhD Intern New 2027 | US, Oregon, Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139) |
 | Intel | AI Data Science / Software Engineering PhD Intern New 2027 | US, Oregon, Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136) |
-| Intel | AI Data Science / Software Engineering PhD Intern New 2027 | US, Oregon, Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140) |
 | Intel | AI Frameworks Engineer - Intern | Poland, Gdansk | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Engineer---Intern_JR0287885) |
 | Intel | AI Frameworks Intern | Poland, Gdansk | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Intern_JR0287895) |
-| Intel | AI GPU Arch Perf Analysis Intern | PRC, Beijing | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Beijing/AI-GPU-Arch-Perf-Analysis-Intern_JR0287928) |
 | Intel | AI GPU Arch Perf Optimization Intern | 2 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-GPU-Arch-Perf-Optimization-Intern_JR0287915) |
 | Intel | AI Hardware Engineering Intern | 2 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533) |
-| Intel | AI SOC Power Delivery Pathfinding PhD Intern | US, Oregon, Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538) |
 | Intel | AI Software Development Intern | Poland, Gdansk | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Development-Intern_JR0288225) |
 | Intel | AI Software Engineer Intern | PRC, Shanghai | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288261) |
+| Intel | AI Software Engineer Intern | 3 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288692) |
 | Intel | AI Software Engineering - Workloads Validation Intern | Poland, Gdansk | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering---Workloads-Validation-Intern_JR0287890) |
+| Intel | AI Software Engineering PhD Intern | Phoenix, AZ +1 | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) |
+| Intel | AI Software Engineering PhD Intern | Arizona Phoenix | - | [Apply](https://zapply.jobs/l/d/workday-intel-external-JR0286730?s=gh-internships-2027) |
 | Intel | AI Software Engineering PhD Intern | 2 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) |
 | Intel | AI Solution Architect - Graduate Intern | US, California, Santa Clara | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524) |
 | Intel | AI Solution Architect Graduate Intern | US, California, Santa Clara | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530) |
@@ -340,6 +330,8 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | Intel | Finance Intern | Malaysia, Penang | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Finance-Intern_JR0287470) |
 | Intel | Finance Intern | Malaysia, Kulim | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/Finance-Intern_JR0287472) |
 | Intel | Firmware and Development Tools Intern | 2 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Firmware-and-Development-Tools-Intern_JR0287536) |
+| Intel | Foundry Construction, Supply Chain and Sourcing Intern – Graduate | 5 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Foundry-Construction--Supply-Chain-and-Sourcing-Intern---Graduate_JR0287924) |
+| Intel | Foundry Construction, Supply Chain and Sourcing Intern – Undergraduate | 5 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Foundry-Construction--Supply-Chain-and-Sourcing-Intern---Undergraduate_JR0287912) |
 | Intel | GPU & AI Accelerator Hardware Design Undergraduate Intern | Canada, Toronto | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) |
 | Intel | GPU Software Engineering Intern | Poland, Gdansk | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894) |
 | Intel | GPU Software Engineering Intern | Poland, Gdansk | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893) |
@@ -381,7 +373,7 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | Intel | Process Integ and Yield Eng PhD Intern Grade 029 | US, Oregon, Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integ-and-Yield-Eng-PhD-Intern-Grade-029_JR0288084) |
 | Intel | Process Integration & Yield Engineering PhD Intern | US, Oregon, Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration---Yield-Engineering-PhD-Intern_JR0288086) |
 | Intel | Process Integration and Yield Eng PhD Intern, 2027 | US, Oregon, Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Eng-PhD-Intern--2027_JR0288068) |
-| Intel | Process Integration and Yield Engineering PhD Intern | US, Oregon, Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132) |
+| Intel | Process Integration Development Engineer PhD Intern 2027 | US, Oregon, Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-2027_JR0288661) |
 | Intel | Process Integration Development Engineer PhD Intern New 2027 | US, Oregon, Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-New-2027_JR0287977) |
 | Intel | Research Scientist Intern - Graphics, ML | Virtual US | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) |
 | Intel | Sales and Marketing - Intern, Bachelor’s | 4 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Sales-and-Marketing---Intern--Bachelor-s_JR0286838) |
@@ -398,8 +390,6 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | Intel | Software Engineering - Intern, Graduate | 5 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) |
 | Intel | Software Engineering - PhD Intern | US, Oregon, Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) |
 | Intel | Software Engineering Intern | PRC, Shanghai | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Software-Engineering-Intern_JR0288193) |
-| Intel | Software Engineering PhD Intern New 2027 | Hillsboro, OR | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) |
-| Intel | Software Engineering Undergraduate Intern (f/m/d) | Germany, Munich | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923) |
 | Intel | Software Research Engineering - (PhD Intern) | US, Oregon, Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) |
 | Intel | Software Research Intern - PhD | Hillsboro, OR | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314?utm_source=Simplify&ref=Simplify) |
 | Intel | Software Solutions PhD Intern New 2027 | US, Oregon, Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) |
@@ -414,6 +404,7 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | JP Morgan Chase | Asset Management Data Scientist – Summer Associate Intern | NYC | - | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931?utm_source=Simplify&ref=Simplify) |
 | JP Morgan Chase | Consumer & Community Banking Internship - Risk Modeling Associate Program | 5 locations Palo Alto, CA Plano, TX Jersey City, NJ Columbus, OH Wilmington, DE | - | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061?utm_source=Simplify&ref=Simplify) |
 | JP Morgan Chase | Data & AI Intern - Data & AI Program | London, UK Glasgow, UK | - | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745?utm_source=Simplify&ref=Simplify) |
+| JP Morgan Chase | Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl | NYC | - | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983?utm_source=Simplify&ref=Simplify) |
 | JP Morgan Chase | Machine Learning Summer Associate Intern - NLP | Palo Alto, CA Seattle, WA NYC | - | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790?utm_source=Simplify&ref=Simplify) |
 | JP Morgan Chase | Quant AI Associate Intern | Palo Alto, CA | - | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936?utm_source=Simplify&ref=Simplify) |
 | JP Morgan Chase | Quantitative Research Summer Analyst Internship - Asset Management | London, UK | - | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010?utm_source=Simplify&ref=Simplify) |
@@ -452,12 +443,13 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | Lyft | Software Engineer Intern, Test Automation (Summer 2027) | Montreal, Canada | Sep 11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) |
 | Lyft | UX Research Intern (Summer 2027) | Toronto, Canada | Sep 11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002) |
 | Mastercard | Platform Engineering Intern | O'Fallon, MO | Oct 15 | [Apply](https://go.vansh.nyc/gm?s=y) |
+| Mastercard | Summer internship 2027 - Sales Analyst Intern– Riyadh, Saudi Arabia | Riyadh, Saudi Arabia | - | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Product-Management-Intern--Summer-2027---Saudi-Arabia_R-287595-1) |
 | Meta | Data Scientist Intern - Product Analytics | Menlo Park, CA | - | [Apply](https://www.metacareers.com/jobs/929757023499411?utm_source=Simplify&ref=Simplify) |
 | Meta | Data Scientist Intern - Product Analytics | Menlo Park, CA NYC | - | [Apply](https://www.metacareers.com/jobs/1633096478817942?utm_source=Simplify&ref=Simplify) |
 | Meta | Research Intern - Embedded AI on Wearables - PhD | Redmond, WA | - | [Apply](https://www.metacareers.com/jobs/4070678619908522) |
 | Meta | Software Engineer Intern - Machine Learning - PhD | Sunnyvale, CA +6 | - | [Apply](https://www.metacareers.com/jobs/2180490782513668) |
 | Meta | Software Engineer Intern - Systems and Infrastructure - PhD | Sunnyvale, CA +6 | - | [Apply](https://www.metacareers.com/jobs/945520495299801) |
-| Meta | Software Engineering Intern | Menlo Park, CA +2 | - | [Apply](https://www.metacareers.com/jobs/1952991802037374) |
+| Meta | Software Engineering Intern | Bellevue, WA +3 | - | [Apply](https://www.metacareers.com/jobs/1952991802037374) |
 | Microsoft | Applied Scientist Intern | Redmond, WA | Oct 07 | [Apply](https://go.vansh.nyc/FW?s=y) |
 | Microsoft | Product Manager Intern | Cambridge, MA | Oct 23 | [Apply](https://go.vansh.nyc/hO?s=y) |
 | Microsoft | Product Manager Intern | Remote | Aug 04 | [Apply](https://go.vansh.nyc/5Y?s=y) |
@@ -474,11 +466,9 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | Microsoft | Software Engineer Intern, Security & Identity | Redmond, WA | Aug 04 | [Apply](https://go.vansh.nyc/5J?s=y) |
 | Microsoft | Software Engineer: Security & Identity Intern Opportunities for University Students - Cambridge | Cambridge, MA | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557044765) |
 | Microsoft | Software Engineering Intern | Tulsa, OK | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557044771) |
-| Microsoft | Software Engineering Intern | Tulsa, Oklahoma, United States | - | [Apply](https://zapply.jobs/l/d/microsoft-200063146?s=gh-internships-2027) |
 | Microsoft | Software Engineering Intern - CTJ - TS | Reston, VA | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556983223) |
 | Microsoft | Software Engineering Intern - CTJ - TS | Redmond, WA | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556983221) |
 | MongoDB | 2027 - Software Engineering Intern - AMER | Austin, TX +2 | - | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
-| MongoDB | 2027 - Software Engineering Intern, AMER | Austin | - | [Apply](https://zapply.jobs/l/d/greenhouse-mongodb-8209134?s=gh-internships-2027) |
 | Netflix | Software Engineer Intern | Los Gatos, CA | Oct 19 | [Apply](https://go.vansh.nyc/BN?s=y) |
 | Netflix | Software Engineer Intern | LA Los Gatos, CA | - | [Apply](https://explore.jobs.netflix.net/careers/job/790318904468?utm_source=Simplify&ref=Simplify) |
 | Netflix | Software Engineer Intern - Summer 2027 | Los Gatos, CA | - | [Apply](https://netflix.wd108.myworkdayjobs.com/en-US/netflix/job/Los-Gatos/Software-Engineer-Intern---Summer-2027_JR42989) |
@@ -540,7 +530,6 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | NVIDIA | NVIDIA 2027 Internships: Software Engineering | Santa Clara, CA | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
 | NVIDIA | NVIDIA 2027 Internships: Software Engineering | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
 | NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | Santa Clara, CA | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
-| NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | US, CA, Santa Clara | - | [Apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023492?s=gh-internships-2027) |
 | NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
 | NVIDIA | NVIDIA 2027 Summer Internships: Ph.D. Engineering | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856) |
 | NVIDIA | NVIDIA Spring 2027 Internships: Developer and Performance Technology | Santa Clara, CA | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) |
@@ -548,6 +537,8 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | NVIDIA | NVTHERM SoC Verification Intern, Tegra - 2027 | China, Shanghai | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVTHERM-SoC-Verification-Intern--Tegra---2027_JR2025425) |
 | NVIDIA | PCIe Design Verification Intern | Austin, TX | Oct 05 | [Apply](https://go.vansh.nyc/EW?s=y) |
 | NVIDIA | PCIe Design Verification Intern | Austin, TX | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708?utm_source=Simplify&ref=Simplify) |
+| NVIDIA | Perf Engineering Intern - 2027 | China, Shanghai | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Perf-Engineering-Intern---2027_JR2028384) |
+| NVIDIA | Performance Engineering Intern - 2027 | China, Shanghai | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern---2027_JR2027711) |
 | NVIDIA | PhD Intern, AI ML in Wireless L1/L2 - Fall 2026 | India, Bengaluru | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) |
 | NVIDIA | PhD Research Intern | Santa Clara, CA | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405?utm_source=Simplify&ref=Simplify) |
 | NVIDIA | PhD Research Intern - AI for Climate and Weather Simulation | Canada Santa Clara, CA United States | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949?utm_source=Simplify&ref=Simplify) |
@@ -592,7 +583,6 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | NVIDIA | SOC Design Team Methodology Intern - 2027 | China, Shanghai | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/SOC-Design-Team-Methodology-Intern---2027_JR2024861) |
 | NVIDIA | Software Engineer, Simulation and Virtualization (RDSS Intern) | 2 Locations | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783) |
 | NVIDIA | Software Engineering Intern - 2027 | China, Shanghai | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972) |
-| NVIDIA | Software Engineering Intern, Compiler Verification - Spring 2027 | 2 Locations | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177) |
 | NVIDIA | Software Engineering Intern, CUDA Test Development - 2027 | China, Shanghai | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645) |
 | NVIDIA | Software Engineering Intern, DLFW Comms - 2027 | 3 Locations | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701) |
 | NVIDIA | Software Engineering Intern, NCCL - 2026 | 2 Locations | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645) |
@@ -607,7 +597,6 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | NVIDIA | System Design Engineer - LDE (RDSS Intern) | Taiwan, Taipei | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Engineer---LDE--RDSS-Intern-_JR2021878) |
 | NVIDIA | System Design Intern, LDE - 2027 | Taiwan, Taipei | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Intern--LDE---2027_JR2021952) |
 | NVIDIA | System Software Engineer (RDSS Intern) | Taiwan, Taipei | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500) |
-| NVIDIA | System Software Engineer - USB (RDSS Intern) | Taiwan, Taipei | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1) |
 | NVIDIA | System Software Engineer – Embedded Power Management (RDSS Intern) | Taiwan, Taipei | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967) |
 | NVIDIA | System Software Engineer – GPU and SOC (2027 RDSS Intern) | Taiwan, Taipei | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628) |
 | NVIDIA | System Software Intern, Video Chips - Summer 2027 | China, Shanghai | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179) |
@@ -637,7 +626,6 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | Honolulu, HI | Dec 11 | [Apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | New York, NY | Jun 30 | [Apply](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | Washington, D.C. | Jul 01 | [Apply](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) |
-| Palantir | Forward Deployed Software Engineer, Internship - Warp Speed | New York, NY | - | [Apply](https://zapply.jobs/l/d/lever-palantir-b3d81928-6c26-432f-8a0a-36602c2eefcb?s=gh-internships-2027) |
 | Palantir | Information Security Engineer, Internship | New York, NY | Aug 03 | [Apply](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) |
 | Palantir | Privacy and Civil Liberties Software Engineer, Internship | New York, NY | Oct 06 | [Apply](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) |
 | Palantir | Product Designer, Internship | New York, NY | Oct 10 | [Apply](https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) |
@@ -729,18 +717,21 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | Salesforce | AI Research Intern | Palo Alto, CA | Oct 20 | [Apply](https://go.vansh.nyc/cG?s=y) |
 | Salesforce | AI Research Intern | Palo Alto, CA | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1?utm_source=Simplify&ref=Simplify) |
 | Salesforce | AI Research Intern | Palo Alto, CA | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111?utm_source=Simplify&ref=Simplify) |
-| Salesforce | Recruiting Coordinator Apprentice - Spanish speaker | Ireland - Dublin | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Recruiting-Coordinator-Apprentice_JR358093) |
+| Salesforce | Forward Deployed Engineer Intern - Global Public Sector | Arkansas Ohio | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026?utm_source=Simplify&ref=Simplify) |
+| Salesforce | Forward Deployed Engineer Intern - Global Public Sector | Arkansas Ohio | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1?utm_source=Simplify&ref=Simplify) |
+| Salesforce | Forward Deployed Engineer Intern, Global Public Sector | United States | Oct 26 | [Apply](https://go.vansh.nyc/WD?s=y) |
+| Salesforce | LATAM Internship Program \| Sales Intern [Brazil] | Brazil - Sao Paulo | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Brazil---Sao-Paulo/Business-Development-Associate_JR249467-1) |
 | Salesforce | Software Engineer Intern | SF Bellevue, WA | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1?utm_source=Simplify&ref=Simplify) |
 | Salesforce | Software Engineer Intern | SF Bellevue, WA | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911?utm_source=Simplify&ref=Simplify) |
 | Salesforce | Software Engineer Intern, Security/Government | San Francisco, CA Bellevue, WA | Oct 19 | [Apply](https://go.vansh.nyc/bA?s=y) |
 | Salesforce | Solution Engineer Intern | New York, NY | Oct 15 | [Apply](https://go.vansh.nyc/9R?s=y) |
+| Salesforce | Summer 2027 Intern - Forward Deployed Engineer – Global Public Sector | 2 Locations | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1) |
 | Salesforce | Summer 2027 Intern - Software Engineer | California, USA +9 | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
 | Salesforce | Summer 2027 Intern - Software Engineer - Security/Government | California, USA +2 | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) |
 | Salesforce | Tableau Research Intern | Palo Alto, CA Seattle, WA | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252?utm_source=Simplify&ref=Simplify) |
 | Salesforce | Tableau Research Intern | Palo Alto, CA Seattle, WA | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1?utm_source=Simplify&ref=Simplify) |
 | Snap | Generative Media Research Intern | Los Angeles, CA | Oct 14 | [Apply](https://go.vansh.nyc/9o?s=y) |
 | Snap | Generative Media Research Intern | LA | - | [Apply](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179?utm_source=Simplify&ref=Simplify) |
-| Snowflake | Product Marketing, AI-Powered Data Engineering Intern (Spring 2027) | CA-Menlo Park | - | [Apply](https://zapply.jobs/l/d/ashby-snowflake-45f2aa43-731d-4bab-a02b-9ef979f2c86e?s=gh-internships-2027) |
 | Stripe | High School Internship - Software Engineering - Summer 2027 | Seattle, WA | - | [Apply](https://stripe.com/jobs/search?gh_jid=8241260) |
 | TikTok | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7677493272788683013?utm_source=Simplify&ref=Simplify) |
 | TikTok | AI Infrastructure Engineer Intern, Recommendation & LLM | San Jose, CA | Aug 25 | [Apply](https://go.vansh.nyc/Ox?s=y) |
@@ -872,11 +863,12 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | TikTok | Software Engineer Intern, Trust and Safety-Engineering | San Jose, CA | Aug 04 | [Apply](https://go.vansh.nyc/6b?s=y) |
 | TikTok | Software Engineer Project Intern - Global E-Commerce Search Infrastructure - 2026 Start | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7662594807715072261) |
 | Twitch | Undergrad Software Engineering Intern | San Francisco, CA | Oct 22 | [Apply](https://go.vansh.nyc/eV?s=y) |
-| Twitch | Undergrad Software Engineering Intern (Grad Year: Spring 2028) | San Francisco, CA | - | [Apply](https://zapply.jobs/l/d/greenhouse-twitch-8886748002?s=gh-internships-2027) |
-| Twitch | Undergrad Software Engineering Intern (Grad Year: Winter 2027) | San Francisco, CA | - | [Apply](https://zapply.jobs/l/d/greenhouse-twitch-8886605002?s=gh-internships-2027) |
 | Twitch | Undergrad Software Engineering Intern - Grad Year: Spring 2028 | San Francisco, CA | - | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8886748002) |
 | Twitch | Undergrad Software Engineering Intern - Grad Year: Winter 2027 | San Francisco, CA | - | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8886605002) |
 | Uber | Software Engineer Intern | Seattle, WA SF Sunnyvale, CA | Oct 20 | [Apply](https://go.vansh.nyc/dg?s=y) |
+| Uber | Software Engineering Intern | Toronto, Canada | Oct 26 | [Apply](https://go.vansh.nyc/Wx?s=y) |
+| Visa | 2027 Sophomore Internship Program - Software Engineer Intern - Ashburn | Ashburn, VA | - | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1) |
+| Visa | 2027 Sophomore Internship Program - Software Engineer Intern - Highlands Ranch | Denver, CO | - | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1) |
 | Visa | 2027 Sophomore Internship Program - Software Engineer Intern, Ashburn | Ashburn, VA | - | [Apply](https://zapply.jobs/l/d/workday-visa-visa-REF089878W?s=gh-internships-2027) |
 | Visa | 2027 Sophomore Internship Program - Software Engineer Intern, Austin, TX - 2027 | Austin, TX | - | [Apply](https://zapply.jobs/l/d/workday-visa-visa-REF089882W?s=gh-internships-2027) |
 | Visa | 2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch | Denver, CO | - | [Apply](https://zapply.jobs/l/d/workday-visa-visa-REF089880W?s=gh-internships-2027) |
@@ -885,19 +877,26 @@ _Target season: Summer 2027. Last checked 2026-10-27. Postings are not filtered 
 | Visa | Data Science Intern - Data and AI Team | Foster City, CA | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W?utm_source=Simplify&ref=Simplify) |
 | Visa | Data Science Intern, Data and AI Team | Foster City, CA | Oct 27 | [Apply](https://go.vansh.nyc/UG?s=y) |
 | Visa | Data Science Intern, Data and AI Team – Summer 2027 | Foster City, CA | - | [Apply](https://zapply.jobs/l/d/workday-visa-visa-REF089883W?s=gh-internships-2027) |
+| Visa | Network and Security Engineering Intern | Ashburn, VA | Oct 26 | [Apply](https://go.vansh.nyc/Xg?s=y) |
+| Visa | Network and Security Engineering Intern | Denver, CO | Oct 26 | [Apply](https://go.vansh.nyc/Xh?s=y) |
 | Visa | Product Management Intern - Data and AI Team | Foster City, CA | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1?utm_source=Simplify&ref=Simplify) |
 | Visa | Product Management Intern - Data and AI Team | Foster City, CA | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W?utm_source=Simplify&ref=Simplify) |
-| Visa | Software Engineer Intern | Denver, CO | Oct 27 | [Apply](https://go.vansh.nyc/VB?s=y) |
-| Visa | Software Engineer Intern | Austin, TX | Oct 27 | [Apply](https://go.vansh.nyc/VC?s=y) |
-| Visa | Software Engineer Intern | Bellevue, WA | Oct 27 | [Apply](https://go.vansh.nyc/Vx?s=y) |
-| Visa | Software Engineer Intern | Foster City, CA | Oct 27 | [Apply](https://go.vansh.nyc/Vy?s=y) |
+| Visa | Software Engineer - Intern - 2027 Ashburn - VA | Ashburn, VA | - | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1) |
+| Visa | Software Engineer - Intern - 2027 Austin - TX | Austin, TX | - | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W) |
+| Visa | Software Engineer - Intern - Foster City 2027 | Foster City, CA | - | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1) |
 | Visa | Software Engineer Intern | Ashburn, VA | Oct 27 | [Apply](https://go.vansh.nyc/Vz?s=y) |
+| Visa | Software Engineer Intern | Foster City, CA | Oct 26 | [Apply](https://go.vansh.nyc/Xe?s=y) |
+| Visa | Software Engineer Intern | Austin, TX | Oct 26 | [Apply](https://go.vansh.nyc/Xf?s=y) |
 | Visa | Software Engineer Intern | Denver, CO | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1?utm_source=Simplify&ref=Simplify) |
 | Visa | Software Engineer Intern | Austin, TX | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1?utm_source=Simplify&ref=Simplify) |
 | Visa | Software Engineer Intern | Austin, TX | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1?utm_source=Simplify&ref=Simplify) |
 | Visa | Software Engineer Intern | Austin, TX | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W?utm_source=Simplify&ref=Simplify) |
 | Visa | Software Engineer Intern | Denver, CO | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W?utm_source=Simplify&ref=Simplify) |
 | Visa | Software Engineer Intern | Austin, TX | - | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W?utm_source=Simplify&ref=Simplify) |
+| Visa | Sophomore Program Software Engineer Intern | Denver, CO | Oct 27 | [Apply](https://go.vansh.nyc/VB?s=y) |
+| Visa | Sophomore Program Software Engineer Intern | Austin, TX | Oct 27 | [Apply](https://go.vansh.nyc/VC?s=y) |
+| Visa | Sophomore Program Software Engineer Intern | Bellevue, WA | Oct 27 | [Apply](https://go.vansh.nyc/Vx?s=y) |
+| Visa | Sophomore Program Software Engineer Intern | Foster City, CA | Oct 27 | [Apply](https://go.vansh.nyc/Vy?s=y) |
 | Visa | Sophomore Program Software Engineer Intern | Ashburn, VA | Oct 26 | [Apply](https://go.vansh.nyc/VE?s=y) |
 | xAI | Spring 2027 Business Operations Internship/Co-op | Palo Alto, CA; New York, NY | Oct 02 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255113007) |
 | xAI | Spring 2027 Software Engineering Internship/Co-op | Palo Alto, CA | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5252108007) |
