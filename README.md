@@ -15,42 +15,24 @@ and is remembered from then on.
 
 <!-- RADAR:START -->
 
-### Tracking 627 open internship posting(s)
+### Tracking 630 open internship posting(s)
 
-_Target season: Summer 2027. Last checked 2026-11-20. Postings are not filtered by season or role — you see everything at the companies you follow._
+_Target season: Summer 2027. Last checked 2026-11-21. Postings are not filtered by season or role — you see everything at the companies you follow._
 
-**25 new since the last check:**
+**7 new since the last check:**
 
 | Company | Role | Location | Posted | |
 | --- | --- | --- | --- | --- |
-| Airbnb | Partnerships Enablement Intern | Paris, France | Nov 20 | [Apply](https://careers.airbnb.com/positions/8406333?gh_jid=8406333) |
-| Cisco | AI Researcher II Intern | San Francisco, CA | Nov 19 | [Apply](https://go.vansh.nyc/1Eb?s=y) |
-| LinkedIn | AI/ML Engineer Intern | Mountain View, CA | - | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808?utm_source=Simplify&ref=Simplify) |
-| LinkedIn | AI/ML Engineer Intern - Generative AI | Mountain View, CA | - | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162623639?utm_source=Simplify&ref=Simplify) |
-| LinkedIn | AI/ML Engineer Intern – Generative AI, PhD – Summer 2027 (Mountain View, CA) | Mountain View, CA | - | [Apply](https://zapply.jobs/l/d/sr-LinkedIn3-744000162623639?s=gh-internships-2027) |
-| LinkedIn | AI/ML Engineer Intern – Search and Recommender Systems, PhD – Summer 2027 (Mountain View, CA) | Mountain View, CA | - | [Apply](https://zapply.jobs/l/d/sr-LinkedIn3-744000162623368?s=gh-internships-2027) |
-| LinkedIn | AI/ML Engineer Intern, Master's - Summer 2027 (Mountain View, CA) | Mountain View, CA | - | [Apply](https://zapply.jobs/l/d/sr-LinkedIn3-744000162628808?s=gh-internships-2027) |
-| LinkedIn | Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems | Mountain View, CA | - | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162623368?utm_source=Simplify&ref=Simplify) |
-| Microsoft | Research Intern - Deep Learning Group | Redmond, WA | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557076095?utm_source=Simplify&ref=Simplify) |
-| Microsoft | Research Intern, AI/Machine Learning Numerics & Efficiency | Redmond, WA Mountain View, CA | Nov 19 | [Apply](https://go.vansh.nyc/1Dx?s=y) |
-| NVIDIA | Finance AI Engineering Intern | Santa Clara, CA | Nov 19 | [Apply](https://go.vansh.nyc/1Eh?s=y) |
-| NVIDIA | Finance AI Engineering Intern - Summer 2027 | US, CA, Santa Clara | - | [Apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029131?s=gh-internships-2027) |
-| Oracle | Spring 2027 Start - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN | Nashville, TN, United States | - | [Apply](https://zapply.jobs/l/d/oracle-oracle-350824?s=gh-internships-2027) |
-| Snowflake | Software Engineer Intern (AI / ML) - Summer 2027 | CA-Menlo Park | - | [Apply](https://zapply.jobs/l/d/ashby-snowflake-185d165c-09c7-4b57-9281-ff7c2c541907?s=gh-internships-2027) |
-| Snowflake | Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027 | CA-Menlo Park | - | [Apply](https://zapply.jobs/l/d/ashby-snowflake-e194759e-3a20-47c9-868d-f47179613897?s=gh-internships-2027) |
-| Snowflake | Software Engineer Intern (Database Engineering) - Summer 2027 | CA-Menlo Park | - | [Apply](https://zapply.jobs/l/d/ashby-snowflake-0223923d-4f0f-44e6-9649-0d1a9eda950d?s=gh-internships-2027) |
-| Snowflake | Software Engineer Intern - AI / ML | Menlo Park, CA Bellevue, WA | - | [Apply](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| Snowflake | Software Engineer Intern - AI / ML - Summer 2027 | Menlo Park, CA +1 | - | [Apply](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907) |
-| Snowflake | Software Engineer Intern - Core - Infrastructure & Security | Menlo Park, CA Bellevue, WA | - | [Apply](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| Snowflake | Software Engineer Intern - Core - Infrastructure & Security — Summer 2027 | Menlo Park, CA +1 | - | [Apply](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897) |
-| Snowflake | Software Engineer Intern - Database Engineering | Menlo Park, CA Bellevue, WA | - | [Apply](https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| Snowflake | Software Engineer Intern - Database Engineering - Summer 2027 | Menlo Park, CA +1 | - | [Apply](https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d) |
-| Snowflake | Software Engineer Intern, AI/ML | Menlo Park, CA Bellevue, WA | Nov 18 | [Apply](https://go.vansh.nyc/1Dr?s=y) |
-| Snowflake | Software Engineer Intern, Core Infrastructure & Security | Menlo Park, CA Bellevue, WA | Nov 18 | [Apply](https://go.vansh.nyc/1Dq?s=y) |
-| Snowflake | Software Engineer Intern, Database Engineering | Menlo Park, CA Bellevue, WA | Nov 18 | [Apply](https://go.vansh.nyc/1Dp?s=y) |
+| Cisco | AI Cybersecurity Engineer I (Intern) – United States | RTP, North Carolina, US | - | [Apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030295?s=gh-internships-2027) |
+| Cisco | AI Cybersecurity Engineer I Intern | Research Triangle Park, NC | Nov 19 | [Apply](https://go.vansh.nyc/1G5?s=y) |
+| Cisco | Data Science Analyst II (Intern) – Untied States | San Jose, California, US | - | [Apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2032691?s=gh-internships-2027) |
+| Cisco | Data Science Analyst II (Intern) – Untied States | San Jose, California | - | [Apply](https://zapply.jobs/l/d/phenom-cisco-2032691?s=gh-internships-2027) |
+| Cisco | Data Science Analyst II Intern | San Jose, CA | Nov 19 | [Apply](https://go.vansh.nyc/1F1?s=y) |
+| Microsoft | Research Intern - Quantum Applications | Redmond, WA | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557076525?utm_source=Simplify&ref=Simplify) |
+| NVIDIA | Technical Marketing Engineering Intern, Digital Biology and Scientific Computing | Santa Clara, CA | Nov 20 | [Apply](https://go.vansh.nyc/1Gd?s=y) |
 
 <details>
-<summary>All 627 tracked postings</summary>
+<summary>All 630 tracked postings</summary>
 
 | Company | Role | Location | Posted | |
 | --- | --- | --- | --- | --- |
@@ -136,18 +118,21 @@ _Target season: Summer 2027. Last checked 2026-11-20. Postings are not filtered 
 | Atlassian | Data Engineer Intern | Seattle, WA | Oct 05 | [Apply](https://go.vansh.nyc/1nT?s=y) |
 | Atlassian | Data Engineer Intern | Seattle, WA | - | [Apply](https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify) |
 | Atlassian | Data Scientist Intern | Seattle, WA | - | [Apply](https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify) |
-| Atlassian | Machine Learning Intern | Seattle, WA SF | - | [Apply](https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify) |
 | Atlassian | Security Engineer Intern | Seattle, WA | Oct 18 | [Apply](https://go.vansh.nyc/QW?s=y) |
+| Cisco | AI Cybersecurity Engineer I (Intern) – United States | RTP, North Carolina, US | - | [Apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030295?s=gh-internships-2027) |
+| Cisco | AI Cybersecurity Engineer I Intern | Research Triangle Park, NC | Nov 19 | [Apply](https://go.vansh.nyc/1G5?s=y) |
 | Cisco | AI Researcher II Intern | San Francisco, CA | Nov 19 | [Apply](https://go.vansh.nyc/1Eb?s=y) |
 | Cisco | Business Analyst I (Intern) United States | San Jose California US | - | [Apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024552?s=gh-internships-2027) |
-| Cisco | Business Analyst I (Intern) United States | San Jose, California | - | [Apply](https://zapply.jobs/l/d/phenom-cisco-2024552?s=gh-internships-2027) |
+| Cisco | Data Science Analyst II (Intern) – Untied States | San Jose, California, US | - | [Apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2032691?s=gh-internships-2027) |
+| Cisco | Data Science Analyst II (Intern) – Untied States | San Jose, California | - | [Apply](https://zapply.jobs/l/d/phenom-cisco-2032691?s=gh-internships-2027) |
+| Cisco | Data Science Analyst II Intern | San Jose, CA | Nov 19 | [Apply](https://go.vansh.nyc/1F1?s=y) |
 | Cisco | Software Consulting Engineer I Intern | Research Triangle Park, NC | Sep 30 | [Apply](https://go.vansh.nyc/fX?s=y) |
+| Cisco | Software Engineer Data & AI PhD (Intern) - United States | San Jose, California | - | [Apply](https://zapply.jobs/l/d/phenom-cisco-2025611?s=gh-internships-2027) |
+| Cisco | Software Engineer Data & AI PhD (Intern) - United States | San Jose California US | - | [Apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025611?s=gh-internships-2027) |
 | Cisco | Software Engineer Embedded Systems I - Intern - United States | San Jose, CA +2 | - | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1) |
 | Cisco | Software Engineer Embedded Systems I Intern | San Jose, CA Austin, TX Research Triangle Park, NC | Nov 10 | [Apply](https://go.vansh.nyc/1sE?s=y) |
 | Cisco | Software Engineer Full Stack / Backend I - Co-op - United States | San Jose, CA +1 | - | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049) |
 | Cisco | Software Engineer Intern, Embedded Systems I | San Jose, CA | Nov 10 | [Apply](https://go.vansh.nyc/1uy?s=y) |
-| Cisco | Systems Quality Engineer I (Co-op) - United States | Maynard, Massachusetts, US | - | [Apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026751?s=gh-internships-2027) |
-| Cisco | Systems Quality Engineer I (Co-op) - United States | Maynard, Massachusetts | - | [Apply](https://zapply.jobs/l/d/phenom-cisco-2026751?s=gh-internships-2027) |
 | Cloudflare | People Team Intern, EMEA Employment Compliance & Manager Enablement (Spring 2027) | In-Office | Nov 17 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8383449?gh_jid=8383449) |
 | Cloudflare | People Team Intern, HR Transformation (Winter 2027) | In-Office | Nov 06 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8350166?gh_jid=8350166) |
 | Cloudflare | Product Manager Intern | London, UK | - | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8328914?utm_source=Simplify&ref=Simplify) |
@@ -196,9 +181,9 @@ _Target season: Summer 2027. Last checked 2026-11-20. Postings are not filtered 
 | Datadog | Software Engineering Intern | Madrid, Spain | Sep 08 | [Apply](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) |
 | Figma | AI Applied Scientist Intern | SF NYC | - | [Apply](https://boards.greenhouse.io/figma/jobs/6207801004?utm_source=Simplify&ref=Simplify) |
 | Figma | Data Engineer Intern (2027) | San Francisco, CA • New York, NY | Sep 23 | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) |
-| Figma | Data Science Intern | SF NYC | - | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004?utm_source=Simplify&ref=Simplify) |
 | Figma | PhD Intern - Software Engineer - Graphics - 2027 | San Francisco, CA +1 | - | [Apply](https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004) |
 | Figma | PhD Intern - Software Engineer - Interaction Design - 2027 | San Francisco, CA +1 | - | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) |
+| Figma | PhD Intern, Data Science (2027) | San Francisco, CA • New York, NY | Sep 21 | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
 | Figma | PhD Intern, Security Engineer (2027) | San Francisco, CA • New York, NY | Oct 28 | [Apply](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) |
 | Figma | Product Design Intern (2027) | San Francisco, CA • New York, NY | Sep 14 | [Apply](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) |
 | Figma | Software Engineer Intern (London, United Kingdom) (Summer 2027) | London, England | Sep 14 | [Apply](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004) |
@@ -208,10 +193,10 @@ _Target season: Summer 2027. Last checked 2026-11-20. Postings are not filtered 
 | Google | People Analytics Intern | 5 locations SF Chicago, IL NYC Mountain View, CA Atlanta, GA | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/81809776362562246?utm_source=Simplify&ref=Simplify) |
 | Google | Software Engineering Intern - PhD - Summer 2027 | Mountain View, CA +29 | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/91436104816698054) |
 | Intel | AI Data Science / Software Engineering PhD Intern | Hillsboro, OR | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139?utm_source=Simplify&ref=Simplify) |
+| Intel | AI Data Science / Software Engineering PhD Intern New 2027 | Santa Clara, CA | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) |
+| Intel | AI Data Science / Software Engineering PhD Intern New 2027 | Hillsboro, OR | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139) |
 | Intel | AI Data Science / Software Engineering PhD Intern New 2027 | Hillsboro, OR | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140) |
 | Intel | AI Data Science / Software Engineering PhD Intern New 2027 | Hillsboro, OR | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136) |
-| Intel | AI Data Science / Software Engineering PhD Intern New 2027 | Hillsboro, OR | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139) |
-| Intel | AI Data Science / Software Engineering PhD Intern New 2027 | Santa Clara, CA | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) |
 | Intel | Compiler Engineering Intern | Toronto, ON | Oct 15 | [Apply](https://go.vansh.nyc/9M?s=y) |
 | Intel | Data Science / Software Engineering PhD Intern | Santa Clara, CA | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138?utm_source=Simplify&ref=Simplify) |
 | Intel | Software Engineering PhD Intern New 2027 | Hillsboro, OR | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) |
@@ -222,7 +207,6 @@ _Target season: Summer 2027. Last checked 2026-11-20. Postings are not filtered 
 | JP Morgan Chase | Machine Learning Intern - NLP | London, UK | - | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793?utm_source=Simplify&ref=Simplify) |
 | JP Morgan Chase | Machine Learning Summer Associate Intern - NLP | Palo Alto, CA Seattle, WA NYC | - | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790?utm_source=Simplify&ref=Simplify) |
 | JP Morgan Chase | Quant AI Associate Intern | Palo Alto, CA | - | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936?utm_source=Simplify&ref=Simplify) |
-| JP Morgan Chase | Quantitative Research Summer Analyst Internship - Asset Management | London, UK | - | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010?utm_source=Simplify&ref=Simplify) |
 | JPMorganChase | AI Research Associate Intern | New York, NY | Oct 14 | [Apply](https://go.vansh.nyc/9d?s=y) |
 | JPMorganChase | Machine Learning Intern, NLP | New York, NY | Oct 20 | [Apply](https://go.vansh.nyc/bI?s=y) |
 | LinkedIn | AI/ML Engineer Intern | Mountain View, CA | - | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808?utm_source=Simplify&ref=Simplify) |
@@ -270,7 +254,6 @@ _Target season: Summer 2027. Last checked 2026-11-20. Postings are not filtered 
 | Microsoft | Applied Scientist Intern | Redmond, WA | Oct 07 | [Apply](https://go.vansh.nyc/FW?s=y) |
 | Microsoft | Applied Scientist Intern, Turing | Redmond, WA | Oct 29 | [Apply](https://go.vansh.nyc/Z4?s=y) |
 | Microsoft | Data Science - Forward Deployed Engineer: PhD Internship Opportunities | Redmond, Washington, United States | - | [Apply](https://zapply.jobs/l/d/microsoft-200061967?s=gh-internships-2027) |
-| Microsoft | Data Scientist Intern - CoreAI | Redmond, WA | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557027390?utm_source=Simplify&ref=Simplify) |
 | Microsoft | Data Scientist Intern, CoreAI | Redmond, WA | Nov 12 | [Apply](https://go.vansh.nyc/1wj?s=y) |
 | Microsoft | First-Year Explore Program Engineering Intern | Redmond, WA | Nov 01 | [Apply](https://go.vansh.nyc/199?s=y) |
 | Microsoft | Product Manager Intern | Cambridge, MA | Oct 23 | [Apply](https://go.vansh.nyc/hO?s=y) |
@@ -278,6 +261,7 @@ _Target season: Summer 2027. Last checked 2026-11-20. Postings are not filtered 
 | Microsoft | Research Intern - Deep Learning Group | Redmond, WA | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557076095?utm_source=Simplify&ref=Simplify) |
 | Microsoft | Research Intern - Efficient AI Software Systems | Redmond, WA | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557041731) |
 | Microsoft | Research Intern - Frontier Tuning | 7 locations Boston, MA SF Redmond, WA NYC Sunnyvale, CA Mountain View, CA Baltimore, MD | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557075074?utm_source=Simplify&ref=Simplify) |
+| Microsoft | Research Intern - Quantum Applications | Redmond, WA | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557076525?utm_source=Simplify&ref=Simplify) |
 | Microsoft | Research Intern - Research in Software Engineering - ML Systems - Agents | Redmond, WA | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557054069) |
 | Microsoft | Research Intern, AI/Machine Learning Numerics & Efficiency | Redmond, WA Mountain View, CA | Nov 19 | [Apply](https://go.vansh.nyc/1Dx?s=y) |
 | Microsoft | Research Intern, Computer Vision and Deep Learning | Redmond, WA | Nov 18 | [Apply](https://go.vansh.nyc/1Cv?s=y) |
@@ -343,6 +327,7 @@ _Target season: Summer 2027. Last checked 2026-11-20. Postings are not filtered 
 | NVIDIA | Systems Research Intern - Observability | Canada Santa Clara, CA United States | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644?utm_source=Simplify&ref=Simplify) |
 | NVIDIA | Systems Software Engineering Intern | Santa Clara, CA | Oct 18 | [Apply](https://go.vansh.nyc/Ro?s=y) |
 | NVIDIA | Systems Software Intern, Aerial PHY | Santa Clara, CA | Oct 18 | [Apply](https://go.vansh.nyc/Rp?s=y) |
+| NVIDIA | Technical Marketing Engineering Intern, Digital Biology and Scientific Computing | Santa Clara, CA | Nov 20 | [Apply](https://go.vansh.nyc/1Gd?s=y) |
 | NVIDIA | VLSI CAD Timing Intern - Applied AI | Santa Clara, CA United States | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799?utm_source=Simplify&ref=Simplify) |
 | NVIDIA | VLSI Timing Methodology Intern | Canada Santa Clara, CA United States | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798?utm_source=Simplify&ref=Simplify) |
 | Oracle | OCI Intern Conversion - Undergrad Software Engineer Full-Time - Nashville - TN - February 2027 | Nashville, TN | - | [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350821) |
